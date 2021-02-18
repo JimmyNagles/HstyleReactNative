@@ -25,7 +25,25 @@ padding:10,
 backgroundColor:"#fff",
 borderRadius:20,
 },
-
+row:{
+  flexDirection:"row",
+  alignItems:"center",
+  padding:15,
+  borderBottomWidth:1,
+  borderColor:"#dbdbdb"
+  
+},
+IconContainer:{
+  backgroundColor:"#b3b3b3",
+  padding:10,
+  borderRadius:25,
+},
+destinationText:{
+marginLeft:10,
+fontWeight:"500",
+fontSize:16,
+marginLeft:10,
+}
 
 
 })

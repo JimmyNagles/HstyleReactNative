@@ -30,19 +30,58 @@ const HomeSearch = () => {
 
 
         {/* Home Destination */}
+
+
  <View style={styles.row}>
 
     
     <View style={styles.IconContainer}>
  
+<Icon name="clock" size={10} color="#ffffff"></Icon>
 
+
+</View>
+
+
+<Text style={styles.destinationText}>Book Hstylist</Text>
+</View>
+
+
+{/* Second Row */}
+
+<View style={styles.row}>
+
+    
+<View style={[styles.IconContainer,{ backgroundColor:"#218cff"}]}>
+
+<Icon name="clock" size={10} color="#ffffff"></Icon>
 
 
 </View>
 
 
+<Text style={styles.destinationText}>Book Manicure</Text>
+</View>
+
+
+{/* Third Row */}
+<View style={styles.row}>
+
+    
+<View style={[styles.IconContainer,{ backgroundColor:"#218cff"}]}>
+
+<Icon name="clock" size={10} color="#ffffff"></Icon>
+
 
 </View>
+
+
+<Text style={styles.destinationText}>Book EyeBrows</Text>
+</View>
+
+
+
+
 
 
 
