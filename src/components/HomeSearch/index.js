@@ -43,7 +43,7 @@ const HomeSearch = () => {
 </View>
 
 
-<Text style={styles.destinationText}>Book Hstylist</Text>
+<Text style={styles.destinationText}>Book For Hstylist</Text>
 </View>
 
 
@@ -60,7 +60,7 @@ const HomeSearch = () => {
 </View>
 
 
-<Text style={styles.destinationText}>Book Manicure</Text>
+<Text style={styles.destinationText}>Book For Manicure</Text>
 </View>
 
 
@@ -76,7 +76,7 @@ const HomeSearch = () => {
 </View>
 
 
-<Text style={styles.destinationText}>Book EyeBrows</Text>
+<Text style={styles.destinationText}>Book For EyeBrows</Text>
 </View>
 
 

@@ -24,8 +24,9 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import Icon from "react-native-vector-icons/FontAwesome"
+
 import HomeScreen from './src/screens/HomeScreen';
+import SearchPage from './src/screens/SearchPage';
 
 const App: () => React$Node = () => {
   return (
@@ -33,7 +34,7 @@ const App: () => React$Node = () => {
       <StatusBar barStyle="dark-content" />
 
 
-    <HomeScreen></HomeScreen>
+<SearchPage></SearchPage>
 
 
     </>
